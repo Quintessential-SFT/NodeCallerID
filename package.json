@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/arg20/phone-caller-id#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "moment": "^2.18.1",
-    "serialport": "^5.0.0-beta3"
+    "bluebird": "3.5.3",
+    "moment": "2.23.0",
+    "serialport": "7.1.0"
   }
 }
